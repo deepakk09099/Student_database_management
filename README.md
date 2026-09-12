@@ -6,3 +6,4 @@ we have :
 2. .c files
 3. makefile
 4. one executable file named as (student)
+5. one data file named as (stud_data.txt)
